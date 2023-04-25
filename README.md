@@ -21,3 +21,6 @@ All the features are independent and the distribution of them is Gaussian distri
 1. Split Wine.csv into training data and testing data. Randomly select 20 instances of each category as testing data. Save the training dataset as train.csv and testing dataset as test.csv. (423 instances for training and 60 instances for testing.) 
 2. To evaluate the posterior probabilities, I need to learn likelihood functions and prior distribution from the training dataset. Then, I calculate the accuracy rate of the MAP detector by comparing to the label of each instance in the test data. 
 3. Plot the visualized result of testing data.
+
+## libraries 
+numpy, pandas, csv, scipy, sklearn, matplotlib
