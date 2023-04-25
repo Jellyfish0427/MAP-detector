@@ -22,5 +22,5 @@ All the features are independent and the distribution of them is Gaussian distri
 2. To evaluate the posterior probabilities, I need to learn likelihood functions and prior distribution from the training dataset. Then, I calculate the accuracy rate of the MAP detector by comparing to the label of each instance in the test data. 
 3. Plot the visualized result of testing data.
 
-## libraries 
+## Libraries 
 numpy, pandas, csv, scipy, sklearn, matplotlib
